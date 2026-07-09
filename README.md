@@ -11,7 +11,7 @@ Resume Optimizer takes a PDF resume and a target job description, then uses adva
 
 ## 🚀 Live Demo
 
-Check out the live application here: **[Resume Optimizer Live App](YOUR_DEPLOYED_STREAMLIT_URL_HERE)**
+Check out the live application here: **[Resume Optimizer Live App]https://resume-optimizer-epk34p7se6qog5biaraumf.streamlit.app/**
 
 ---
 
